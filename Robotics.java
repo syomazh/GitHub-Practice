@@ -6,7 +6,7 @@ public class Robotics {
 		System.out.println("Robotics Rock");
 		System.out.println("[](/b32)");
 
-		System.out.println("Good-bye, world.")
+		System.out.println("Good-bye, world.");
 	}
 
 }
